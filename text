@@ -1,0 +1,11 @@
+git init 
+
+git add .
+
+git commit -m "Mensagem explicativa"
+
+git branch -M main         | usar somente quando estiver usando pela primeira vez
+
+git remote add
+
+git push -u origin main
